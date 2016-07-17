@@ -56,12 +56,6 @@
     color: #FFFFF0;
     margin-left: 10px;
 }
-#footer{
-    background: #696969;
-}
-#footer p{
-    text-align: center;
-}
 .list-group-item-heading img{
     width: 100%;
     height: 100%;
@@ -70,6 +64,10 @@
     margin-bottom: 20px;
 }
 .list-group-item-heading .img-circle{
+    width: 100%;
+    height: 80%;
+}
+.error-image{
     width: 100%;
     height: 80%;
 }
